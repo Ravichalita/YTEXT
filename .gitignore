@@ -1,0 +1,33 @@
+# Segredos e Configurações Locais
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Build & Distribuição (PyInstaller)
+build/
+dist/
+*.spec
+*.manifest
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Downloads e arquivos temporários
+*.mp4
+*.m4a
+*.mp3
+*.webm
+*.mkv
+downloads/
